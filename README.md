@@ -1,3 +1,3 @@
-# Digital Innovation One - Prática .NET
+# dio-dotnet-poo-lab-1
 
-## POO na prática: criando uma aplicação
+## POO na prática: criando uma aplicação.
